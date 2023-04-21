@@ -99,8 +99,19 @@
 }
 .section-advantages-item{
    color: var(--primary-text-color);
+
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 16px;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
 }
 .section-advantages-text{
    color: var(--secondary-text-color);
+
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   letter-spacing: 0.03em;
 }
 
