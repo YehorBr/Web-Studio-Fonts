@@ -43,10 +43,10 @@
 
  .nav-link,
  .contacts-link {
-     font-weight: 500;
-     font-size: 14px;
-     line-height: 16px;
-     letter-spacing: 0.02em;
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
  }
 
  .nav-link {
